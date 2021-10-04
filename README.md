@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aradyaron
 - 👀 I’m interested in python/X++/Javascript/typescript/blockchain(starter)/any other thing you find extremely interesting
 - 🌱 I’m currently learning c++/python/javascript
-- 💞️ I’m looking to collaborate on python/X++/Javascript/typescript/blockchain(starter)/any other thing you find extremely interesting
+- 💞️ I’m looking to collaborate on python/C++/Javascript/typescript/blockchain(starter)/any other thing you find extremely interesting
 - 📫 How to reach me - aradyaron98@gmail.com
 
 <!---
